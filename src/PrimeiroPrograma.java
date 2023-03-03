@@ -9,7 +9,7 @@ public class PrimeiroPrograma {
 
         System.out.println("resultado da soma: " + (a+b));
 */
-        Gato gato = new Gato("Luna", "Branca", 5);
+        Gato gato = new Gato("Luna", "Azul", 5);
 
         System.out.println(gato);
     }
